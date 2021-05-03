@@ -1,0 +1,13 @@
+.vscode
+nohup.out
+*.log
+node_modules
+dist
+vs
+out
+bin
+# .yarnrc
+b.bat
+*.pfx
+.DS_Store
+.env

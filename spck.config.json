@@ -1,0 +1,7 @@
+{
+  "run": {
+    "type": "file",
+    "file": "yn-2.8.1/frontend/public/index.html",
+    "ignoreCurrent": false
+  }
+}
